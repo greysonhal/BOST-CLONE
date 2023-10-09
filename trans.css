@@ -1,0 +1,19 @@
+body{
+  position:relative;
+}
+
+
+
+.over{
+  width:50%;
+  height:50vh;
+  background: red;
+  position:absolute;
+}
+
+.along{
+  width:50%;
+  height:50vh;
+  background: blue;
+  
+}
